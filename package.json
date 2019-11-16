@@ -1,0 +1,24 @@
+{
+  "name": "good-good-study",
+  "version": "1.0.0",
+  "description": "好好学习，天天向上",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yin-shu/good-good-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yin-shu/good-good-study/issues"
+  },
+  "homepage": "https://github.com/yin-shu/good-good-study#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
