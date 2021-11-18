@@ -9,7 +9,8 @@ module.exports = {
       '/tools/',
       '/node/',
       '/ci/',
-      '/mongodb/'
+      '/mongodb/',
+      '/network/'
     ],
   }
 }
